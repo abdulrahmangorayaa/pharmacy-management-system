@@ -28,3 +28,4 @@ The purpose of the website is to demonstrate:
 - (Optional) Bootstrap used on one non-home page  
 
 ## Folder Structure
+# pharmacy-management-system-project.backend
